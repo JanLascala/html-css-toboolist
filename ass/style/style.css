@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.root {}
+
+body {
+    background-color: rgb(215, 255, 255);
+}
+
+#title {
+    margin: 1rem;
+    background: white;
+
+}
+
+h1 {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
