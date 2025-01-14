@@ -26,7 +26,7 @@ h1 {
 
 #functioncontainer {
     height: 50px;
-    width: 500px;
+
     background-color: white;
     margin: 4rem;
     position: relative;
@@ -63,10 +63,11 @@ h1 {
 /* section second-main container*/
 
 #maincontainer {
-    width: 500px;
+
     height: 700px;
     background-color: white;
     margin-left: 4rem;
+    margin-right: 4rem;
     margin-top: -3.5rem;
 
 }
@@ -79,14 +80,19 @@ h2 {
 }
 
 p {
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 3.4rem;
     margin-top: 20px;
 
 }
 
+mark {
+    margin-left: 0.5rem;
+    font-size: 13px;
+}
+
 #editorial {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
@@ -95,22 +101,22 @@ p {
 }
 
 #checkmark {
+
     color: rgb(11, 223, 11);
-    border: 1px solid green;
+    border: 2px solid rgb(14, 230, 14);
     border-radius: 50%;
 
 }
 
 #cross {
     color: rgb(236, 12, 12);
-    border: 1px solid rgb(231, 9, 9);
+    border: 2px solid rgb(231, 9, 9);
     border-radius: 50%;
 
 }
 
 #goals {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
@@ -119,7 +125,6 @@ p {
 
 #recruting {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
@@ -128,7 +133,6 @@ p {
 
 #mobile {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
@@ -137,7 +141,6 @@ p {
 
 #website {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
@@ -146,7 +149,6 @@ p {
 
 #sales {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
