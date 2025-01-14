@@ -60,11 +60,11 @@ h1 {
 
 }
 
-/* section second container*/
+/* section second-main container*/
 
 #maincontainer {
     width: 500px;
-    height: 500px;
+    height: 700px;
     background-color: white;
     margin-left: 4rem;
     margin-top: -3.5rem;
@@ -101,11 +101,54 @@ p {
 
 }
 
+#cross {
+    color: rgb(236, 12, 12);
+    border: 1px solid rgb(231, 9, 9);
+    border-radius: 50%;
+
+}
+
 #goals {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: white;
     padding: 0.5rem;
     border-radius: 30px;
-    background-color: rgb(176, 45, 143);
+    background-color: rgb(167, 54, 184);
+}
+
+#recruting {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 30px;
+    background-color: rgb(45, 176, 84);
+}
+
+#mobile {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 30px;
+    background-color: rgb(203, 126, 10);
+}
+
+#website {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 30px;
+    background-color: rgb(215, 48, 176);
+}
+
+#sales {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 30px;
+    background-color: rgb(9, 196, 22);
 }
